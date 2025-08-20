@@ -1,0 +1,10 @@
+# requirements.txt (Clean Version for API)
+
+Flask
+flask-cors
+torch
+torchvision
+Pillow
+albumentations
+numpy
+gunicorn
