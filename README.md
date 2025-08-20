@@ -1,7 +1,6 @@
 ---
 title: Drone Detection API
 sdk: docker
-app_file: app.py
 ---
 
 # Drone Detection API
